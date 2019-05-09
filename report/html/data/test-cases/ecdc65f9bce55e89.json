@@ -1,0 +1,60 @@
+{
+  "uid" : "ecdc65f9bce55e89",
+  "name" : "C:\\Users\\dongxin\\PycharmProjects\\5.9\\scripts.testlogin.Testlogin.test_hello_002",
+  "fullName" : "scripts.C:\\Users\\dongxin\\PycharmProjects\\5.9\\scripts.testlogin.Testlogin.test_hello_002",
+  "historyId" : "291cb4aad4cb3e2077baadf5e0095a0e",
+  "time" : {
+    "start" : 1557386812832,
+    "stop" : 1557386812834,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-041HO6S"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3764-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\dongxin\\PycharmProjects\\5.9\\scripts.testlogin.Testlogin.test_hello_002"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ecdc65f9bce55e89.json",
+  "parameterValues" : [ ]
+}

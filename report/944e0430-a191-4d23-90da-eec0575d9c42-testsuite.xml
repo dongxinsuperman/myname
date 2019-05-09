@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1557386812816" stop="1557386812836">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1557386812816" status="passed" stop="1557386812822">
+      <name>C:\Users\dongxin\PycharmProjects\5.9\scripts.testlogin.Testlogin.test_hello_001</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3764-MainThread"/>
+        <label name="host" value="DESKTOP-041HO6S"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1557386812832" status="passed" stop="1557386812834">
+      <name>C:\Users\dongxin\PycharmProjects\5.9\scripts.testlogin.Testlogin.test_hello_002</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3764-MainThread"/>
+        <label name="host" value="DESKTOP-041HO6S"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1557386812835" status="passed" stop="1557386812836">
+      <name>C:\Users\dongxin\PycharmProjects\5.9\scripts.testlogin.Testlogin.test_hello_003</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3764-MainThread"/>
+        <label name="host" value="DESKTOP-041HO6S"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

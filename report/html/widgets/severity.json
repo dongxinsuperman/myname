@@ -1,0 +1,31 @@
+[ {
+  "uid" : "ecdc65f9bce55e89",
+  "name" : "C:\\Users\\dongxin\\PycharmProjects\\5.9\\scripts.testlogin.Testlogin.test_hello_002",
+  "time" : {
+    "start" : 1557386812832,
+    "stop" : 1557386812834,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "916ca22df2ea760f",
+  "name" : "C:\\Users\\dongxin\\PycharmProjects\\5.9\\scripts.testlogin.Testlogin.test_hello_001",
+  "time" : {
+    "start" : 1557386812816,
+    "stop" : 1557386812822,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5cb3ef075c4ba62",
+  "name" : "C:\\Users\\dongxin\\PycharmProjects\\5.9\\scripts.testlogin.Testlogin.test_hello_003",
+  "time" : {
+    "start" : 1557386812835,
+    "stop" : 1557386812836,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
