@@ -1,24 +1,24 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1557391950348" stop="1557391950414">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1557392924381" stop="1557392924447">
   <name>scripts</name>
   <labels/>
   <test-cases>
-    <test-case start="1557391950348" status="passed" stop="1557391950353">
+    <test-case start="1557392924381" status="passed" stop="1557392924386">
       <name>C:\Users\dongxin\PycharmProjects\5.9\scripts.testlogin.Testlogin.test_hello_001</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="11308-MainThread"/>
+        <label name="thread" value="11592-MainThread"/>
         <label name="host" value="DESKTOP-041HO6S"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1557391950354" status="failed" stop="1557391950411">
+    <test-case start="1557392924387" status="failed" stop="1557392924444">
       <name>C:\Users\dongxin\PycharmProjects\5.9\scripts.testlogin.Testlogin.test_hello_002</name>
       <failure>
         <message>AssertionError: assert 0</message>
-        <stack-trace>self = &lt;scripts.testlogin.Testlogin object at 0x0000015BBAFCB4E0&gt;
+        <stack-trace>self = &lt;scripts.testlogin.Testlogin object at 0x0000020FCAEA8BA8&gt;
 
     def test_hello_002(self):
 &gt;       assert 0
@@ -29,19 +29,19 @@ scripts\testlogin.py:9: AssertionError</stack-trace>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="11308-MainThread"/>
+        <label name="thread" value="11592-MainThread"/>
         <label name="host" value="DESKTOP-041HO6S"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1557391950413" status="passed" stop="1557391950414">
+    <test-case start="1557392924446" status="passed" stop="1557392924447">
       <name>C:\Users\dongxin\PycharmProjects\5.9\scripts.testlogin.Testlogin.test_hello_003</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="11308-MainThread"/>
+        <label name="thread" value="11592-MainThread"/>
         <label name="host" value="DESKTOP-041HO6S"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
